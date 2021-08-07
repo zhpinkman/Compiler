@@ -1,3 +1,6 @@
 [submodule "toorla-compiler"]
 	path = toorla-compiler
 	url = git@github.com:zhpinkman/toorla-compiler.git
+[submodule "WhileLang-Observer-Pattern"]
+	path = WhileLang-Observer-Pattern
+	url = git@github.com:zhpinkman/WhileLang-Observer-Pattern.git
