@@ -1,0 +1,3 @@
+[submodule "toorla-compiler"]
+	path = toorla-compiler
+	url = git@github.com:zhpinkman/toorla-compiler.git
